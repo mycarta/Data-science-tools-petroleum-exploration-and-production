@@ -1,8 +1,10 @@
 ## Niccoli - Speidel 2018 Calgary CSEG / CSPG Geoconvention
 
 This repo is a Python and R extention of the work from two Python notebooks in the [Predict repository](https://github.com/mycarta/predict): 
-* [Geoscience ML notebook 2](https://github.com/mycarta/predict/blob/master/Geoscience_ML_notebook_2.ipynb) 
-* [Geoscience_ML_notebook 3](https://github.com/mycarta/predict/blob/master/Geoscience_ML_notebook_3.ipynb)
+
+* 1 [Geoscience ML notebook 2](https://github.com/mycarta/predict/blob/master/Geoscience_ML_notebook_2.ipynb) 
+
+* 2 [Geoscience_ML_notebook 3](https://github.com/mycarta/predict/blob/master/Geoscience_ML_notebook_3.ipynb)
 
 ## Contributors
 
