@@ -1,17 +1,17 @@
 ## Niccoli - Speidel 2018 Calgary CSEG / CSPG Geoconvention
 
-This repo is an extension of the [Predict repository](https://github.com/mycarta/predict).
+This repo is a Python and R extention of the work from two Python notebooks in the [Predict repository](https://github.com/mycarta/predict): 
+* [Geoscience ML notebook 2](https://github.com/mycarta/predict/blob/master/Geoscience_ML_notebook_2.ipynb) 
+* [Geoscience_ML_notebook 3](https://github.com/mycarta/predict/blob/master/Geoscience_ML_notebook_3.ipynb)
 
 ## Contributors
 
 ### For Python
 [Matteo Niccoli](https://github.com/mycarta),  see `/Python/` above.
-* This is an expansion and amelioration of the Python significance tests showcased in [Geoscience ML notebook 2](https://github.com/mycarta/predict/blob/master/Geoscience_ML_notebook_2.ipynb) and [Geoscience_ML_notebook 3](https://github.com/mycarta/predict/blob/master/Geoscience_ML_notebook_3.ipynb)
 * For a static notebook, see [here](https://github.com/mycarta/Niccoli_Speidel_2018_Geoconvention/blob/master/Python/Python_data_science_tools%20_petroleum_exploration_production.ipynb)
 * For an interactive notebook, click on the `Binder button` below, open the `/Python/` directory, and open the notebook
 
 [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/mycarta/Niccoli_Speidel_2018_Geoconvention/master)
-
 
 
 
