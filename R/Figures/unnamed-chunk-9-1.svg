@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<svg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' viewBox='0 0 360.00 432.00'>
+<defs>
+  <style type='text/css'><![CDATA[
+    line, polyline, path, rect, circle {
+      fill: none;
+      stroke: #000000;
+      stroke-linecap: round;
+      stroke-linejoin: round;
+      stroke-miterlimit: 10.00;
+    }
+  ]]></style>
+</defs>
+<rect width='100%' height='100%' style='stroke: none; fill: #FFFFFF;'/>
+<text transform='translate(70.98,133.01) rotate(-90)' style='font-size: 9.00px; font-family: Raleway;' textLength='37.08px' lengthAdjust='spacingAndGlyphs'>pressure</text>
+<text transform='translate(112.76,218.43) rotate(-90)' style='font-size: 9.00px; font-family: Raleway;' textLength='33.45px' lengthAdjust='spacingAndGlyphs'>position</text>
+<text transform='translate(154.54,224.54) rotate(-90)' style='font-size: 9.00px; font-family: Raleway;' textLength='39.56px' lengthAdjust='spacingAndGlyphs'>random.2</text>
+<polyline points='110.84,176.66 110.84,159.18 152.62,159.18 152.62,176.66 ' style='stroke-width: 0.75;' />
+<text transform='translate(196.32,167.07) rotate(-90)' style='font-size: 9.00px; font-family: Raleway;' textLength='38.80px' lengthAdjust='spacingAndGlyphs'>random.1</text>
+<text transform='translate(238.09,263.90) rotate(-90)' style='font-size: 9.00px; font-family: Raleway;' textLength='20.11px' lengthAdjust='spacingAndGlyphs'>phi.h</text>
+<text transform='translate(279.87,311.21) rotate(-90)' style='font-size: 9.00px; font-family: Raleway;' textLength='40.48px' lengthAdjust='spacingAndGlyphs'>gross.pay</text>
+<text transform='translate(321.65,354.27) rotate(-90)' style='font-size: 9.00px; font-family: Raleway;' textLength='83.54px' lengthAdjust='spacingAndGlyphs'>gross.pay.transform</text>
+<polyline points='277.96,262.42 277.96,244.94 319.73,244.94 319.73,262.42 ' style='stroke-width: 0.75;' />
+<polyline points='236.18,235.47 236.18,217.99 298.84,217.99 298.84,244.94 ' style='stroke-width: 0.75;' />
+<polyline points='194.40,119.96 194.40,102.48 267.51,102.48 267.51,217.99 ' style='stroke-width: 0.75;' />
+<polyline points='131.73,159.18 131.73,84.07 230.96,84.07 230.96,102.48 ' style='stroke-width: 0.75;' />
+<polyline points='69.07,87.61 69.07,70.13 181.34,70.13 181.34,84.07 ' style='stroke-width: 0.75;' />
+<line x1='59.04' y1='250.41' x2='59.04' y2='59.04' style='stroke-width: 0.75;' />
+<line x1='59.04' y1='250.41' x2='51.84' y2='250.41' style='stroke-width: 0.75;' />
+<line x1='59.04' y1='211.54' x2='51.84' y2='211.54' style='stroke-width: 0.75;' />
+<line x1='59.04' y1='172.68' x2='51.84' y2='172.68' style='stroke-width: 0.75;' />
+<line x1='59.04' y1='133.82' x2='51.84' y2='133.82' style='stroke-width: 0.75;' />
+<line x1='59.04' y1='94.96' x2='51.84' y2='94.96' style='stroke-width: 0.75;' />
+<text transform='translate(41.76,256.84) rotate(-90)' style='font-size: 9.00px; font-family: Raleway;' textLength='12.87px' lengthAdjust='spacingAndGlyphs'>0.0</text>
+<text transform='translate(41.76,217.62) rotate(-90)' style='font-size: 9.00px; font-family: Raleway;' textLength='12.16px' lengthAdjust='spacingAndGlyphs'>0.2</text>
+<text transform='translate(41.76,178.87) rotate(-90)' style='font-size: 9.00px; font-family: Raleway;' textLength='12.37px' lengthAdjust='spacingAndGlyphs'>0.4</text>
+<text transform='translate(41.76,140.22) rotate(-90)' style='font-size: 9.00px; font-family: Raleway;' textLength='12.80px' lengthAdjust='spacingAndGlyphs'>0.6</text>
+<text transform='translate(41.76,101.32) rotate(-90)' style='font-size: 9.00px; font-family: Raleway;' textLength='12.73px' lengthAdjust='spacingAndGlyphs'>0.8</text>
+<text x='82.27' y='33.35' style='font-size: 10.80px; font-weight: bold; font-family: Raleway;' textLength='224.25px' lengthAdjust='spacingAndGlyphs'>Cluster dendrogram with AU/BP values (%)</text>
+<text x='142.31' y='427.68' style='font-size: 9.00px; font-family: Raleway;' textLength='104.18px' lengthAdjust='spacingAndGlyphs'>Cluster method: average</text>
+<text x='158.51' y='413.28' style='font-size: 9.00px; font-family: Raleway;' textLength='71.78px' lengthAdjust='spacingAndGlyphs'>Distance:  abscor</text>
+<text transform='translate(12.96,222.88) rotate(-90)' style='font-size: 9.00px; font-family: Raleway;' textLength='28.15px' lengthAdjust='spacingAndGlyphs'>Height</text>
+<defs>
+  <clipPath id='cpNTkuMDR8MzI5Ljc2fDM1OC41Nnw1OS4wNA=='>
+    <rect x='59.04' y='59.04' width='270.72' height='299.52' />
+  </clipPath>
+</defs>
+<g clip-path='url(#cpNTkuMDR8MzI5Ljc2fDM1OC41Nnw1OS4wNA==)'><text x='282.44' y='243.67' style='font-size: 7.20px; fill: #FF0000; font-family: Raleway;' textLength='12.08px' lengthAdjust='spacingAndGlyphs'>100</text></g>
+<g clip-path='url(#cpNTkuMDR8MzI5Ljc2fDM1OC41Nnw1OS4wNA==)'><text x='251.11' y='216.72' style='font-size: 7.20px; fill: #FF0000; font-family: Raleway;' textLength='12.08px' lengthAdjust='spacingAndGlyphs'>100</text></g>
+<g clip-path='url(#cpNTkuMDR8MzI5Ljc2fDM1OC41Nnw1OS4wNA==)'><text x='118.81' y='157.91' style='font-size: 7.20px; fill: #FF0000; font-family: Raleway;' textLength='8.60px' lengthAdjust='spacingAndGlyphs'>96</text></g>
+<g clip-path='url(#cpNTkuMDR8MzI5Ljc2fDM1OC41Nnw1OS4wNA==)'><text x='218.48' y='101.21' style='font-size: 7.20px; fill: #FF0000; font-family: Raleway;' textLength='8.16px' lengthAdjust='spacingAndGlyphs'>82</text></g>
+<g clip-path='url(#cpNTkuMDR8MzI5Ljc2fDM1OC41Nnw1OS4wNA==)'><text x='168.87' y='82.80' style='font-size: 7.20px; fill: #FF0000; font-family: Raleway;' textLength='8.16px' lengthAdjust='spacingAndGlyphs'>78</text></g>
+<g clip-path='url(#cpNTkuMDR8MzI5Ljc2fDM1OC41Nnw1OS4wNA==)'><text x='112.57' y='68.86' style='font-size: 7.20px; fill: #FF0000; font-family: Raleway;' textLength='8.32px' lengthAdjust='spacingAndGlyphs'>au</text></g>
+<g clip-path='url(#cpNTkuMDR8MzI5Ljc2fDM1OC41Nnw1OS4wNA==)'><text x='303.16' y='243.67' style='font-size: 7.20px; fill: #00CD00; font-family: Raleway;' textLength='12.08px' lengthAdjust='spacingAndGlyphs'>100</text></g>
+<g clip-path='url(#cpNTkuMDR8MzI5Ljc2fDM1OC41Nnw1OS4wNA==)'><text x='271.83' y='216.72' style='font-size: 7.20px; fill: #00CD00; font-family: Raleway;' textLength='8.55px' lengthAdjust='spacingAndGlyphs'>98</text></g>
+<g clip-path='url(#cpNTkuMDR8MzI5Ljc2fDM1OC41Nnw1OS4wNA==)'><text x='136.05' y='157.91' style='font-size: 7.20px; fill: #00CD00; font-family: Raleway;' textLength='8.60px' lengthAdjust='spacingAndGlyphs'>69</text></g>
+<g clip-path='url(#cpNTkuMDR8MzI5Ljc2fDM1OC41Nnw1OS4wNA==)'><text x='235.28' y='101.21' style='font-size: 7.20px; fill: #00CD00; font-family: Raleway;' textLength='7.13px' lengthAdjust='spacingAndGlyphs'>31</text></g>
+<g clip-path='url(#cpNTkuMDR8MzI5Ljc2fDM1OC41Nnw1OS4wNA==)'><text x='185.66' y='82.80' style='font-size: 7.20px; fill: #00CD00; font-family: Raleway;' textLength='7.09px' lengthAdjust='spacingAndGlyphs'>21</text></g>
+<g clip-path='url(#cpNTkuMDR8MzI5Ljc2fDM1OC41Nnw1OS4wNA==)'><text x='129.53' y='68.86' style='font-size: 7.20px; fill: #00CD00; font-family: Raleway;' textLength='8.97px' lengthAdjust='spacingAndGlyphs'>bp</text></g>
+<g clip-path='url(#cpNTkuMDR8MzI5Ljc2fDM1OC41Nnw1OS4wNA==)'><text x='297.22' y='253.52' style='font-size: 7.20px; fill: #BEBEBE; font-family: Raleway;' textLength='3.24px' lengthAdjust='spacingAndGlyphs'>1</text></g>
+<g clip-path='url(#cpNTkuMDR8MzI5Ljc2fDM1OC41Nnw1OS4wNA==)'><text x='265.59' y='226.57' style='font-size: 7.20px; fill: #BEBEBE; font-family: Raleway;' textLength='3.85px' lengthAdjust='spacingAndGlyphs'>2</text></g>
+<g clip-path='url(#cpNTkuMDR8MzI5Ljc2fDM1OC41Nnw1OS4wNA==)'><text x='129.79' y='167.76' style='font-size: 7.20px; fill: #BEBEBE; font-family: Raleway;' textLength='3.89px' lengthAdjust='spacingAndGlyphs'>3</text></g>
+<g clip-path='url(#cpNTkuMDR8MzI5Ljc2fDM1OC41Nnw1OS4wNA==)'><text x='228.95' y='111.06' style='font-size: 7.20px; fill: #BEBEBE; font-family: Raleway;' textLength='4.02px' lengthAdjust='spacingAndGlyphs'>4</text></g>
+<g clip-path='url(#cpNTkuMDR8MzI5Ljc2fDM1OC41Nnw1OS4wNA==)'><text x='179.37' y='92.65' style='font-size: 7.20px; fill: #BEBEBE; font-family: Raleway;' textLength='3.95px' lengthAdjust='spacingAndGlyphs'>5</text></g>
+<g clip-path='url(#cpNTkuMDR8MzI5Ljc2fDM1OC41Nnw1OS4wNA==)'><text x='113.04' y='78.71' style='font-size: 7.20px; fill: #BEBEBE; font-family: Raleway;' textLength='24.34px' lengthAdjust='spacingAndGlyphs'>edge #</text></g>
+<rect x='95.80' y='157.69' width='71.86' height='197.26' style='stroke-width: 0.75; stroke: #FF0000;' clip-path='url(#cpNTkuMDR8MzI5Ljc2fDM1OC41Nnw1OS4wNA==)' />
+<rect x='221.14' y='216.50' width='113.64' height='138.45' style='stroke-width: 0.75; stroke: #FF0000;' clip-path='url(#cpNTkuMDR8MzI5Ljc2fDM1OC41Nnw1OS4wNA==)' />
+</svg>

@@ -1,0 +1,162 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<svg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' viewBox='0 0 432.00 432.00'>
+<defs>
+  <style type='text/css'><![CDATA[
+    line, polyline, path, rect, circle {
+      fill: none;
+      stroke: #000000;
+      stroke-linecap: round;
+      stroke-linejoin: round;
+      stroke-miterlimit: 10.00;
+    }
+  ]]></style>
+</defs>
+<rect width='100%' height='100%' style='stroke: none; fill: #FFFFFF;'/>
+<rect x='99.24' y='107.62' width='38.43' height='38.43' style='stroke-width: 0.75; stroke: #E5E5E5; fill: #E5E5E5;' />
+<rect x='137.66' y='107.62' width='38.43' height='38.43' style='stroke-width: 0.75; stroke: #E5E5E5; fill: #E5E5E5;' />
+<rect x='137.66' y='146.04' width='38.43' height='38.43' style='stroke-width: 0.75; stroke: #E5E5E5; fill: #E5E5E5;' />
+<rect x='176.09' y='107.62' width='38.43' height='38.43' style='stroke-width: 0.75; stroke: #E5E5E5; fill: #E5E5E5;' />
+<rect x='176.09' y='146.04' width='38.43' height='38.43' style='stroke-width: 0.75; stroke: #E5E5E5; fill: #E5E5E5;' />
+<rect x='176.09' y='184.47' width='38.43' height='38.43' style='stroke-width: 0.75; stroke: #E5E5E5; fill: #E5E5E5;' />
+<rect x='214.52' y='107.62' width='38.43' height='38.43' style='stroke-width: 0.75; stroke: #E5E5E5; fill: #E5E5E5;' />
+<rect x='214.52' y='146.04' width='38.43' height='38.43' style='stroke-width: 0.75; stroke: #E5E5E5; fill: #E5E5E5;' />
+<rect x='214.52' y='184.47' width='38.43' height='38.43' style='stroke-width: 0.75; stroke: #E5E5E5; fill: #E5E5E5;' />
+<rect x='214.52' y='222.90' width='38.43' height='38.43' style='stroke-width: 0.75; stroke: #E5E5E5; fill: #E5E5E5;' />
+<rect x='252.95' y='107.62' width='38.43' height='38.43' style='stroke-width: 0.75; stroke: #E5E5E5; fill: #E5E5E5;' />
+<rect x='252.95' y='146.04' width='38.43' height='38.43' style='stroke-width: 0.75; stroke: #E5E5E5; fill: #E5E5E5;' />
+<rect x='252.95' y='184.47' width='38.43' height='38.43' style='stroke-width: 0.75; stroke: #E5E5E5; fill: #E5E5E5;' />
+<rect x='252.95' y='222.90' width='38.43' height='38.43' style='stroke-width: 0.75; stroke: #E5E5E5; fill: #E5E5E5;' />
+<rect x='252.95' y='261.33' width='38.43' height='38.43' style='stroke-width: 0.75; stroke: #E5E5E5; fill: #E5E5E5;' />
+<rect x='291.38' y='107.62' width='38.43' height='38.43' style='stroke-width: 0.75; stroke: #E5E5E5; fill: #E5E5E5;' />
+<rect x='291.38' y='146.04' width='38.43' height='38.43' style='stroke-width: 0.75; stroke: #E5E5E5; fill: #E5E5E5;' />
+<rect x='291.38' y='184.47' width='38.43' height='38.43' style='stroke-width: 0.75; stroke: #E5E5E5; fill: #E5E5E5;' />
+<rect x='291.38' y='222.90' width='38.43' height='38.43' style='stroke-width: 0.75; stroke: #E5E5E5; fill: #E5E5E5;' />
+<rect x='291.38' y='261.33' width='38.43' height='38.43' style='stroke-width: 0.75; stroke: #E5E5E5; fill: #E5E5E5;' />
+<rect x='291.38' y='299.76' width='38.43' height='38.43' style='stroke-width: 0.75; stroke: #E5E5E5; fill: #E5E5E5;' />
+<rect x='329.81' y='107.62' width='38.43' height='38.43' style='stroke-width: 0.75; stroke: #E5E5E5; fill: #E5E5E5;' />
+<rect x='329.81' y='146.04' width='38.43' height='38.43' style='stroke-width: 0.75; stroke: #E5E5E5; fill: #E5E5E5;' />
+<rect x='329.81' y='184.47' width='38.43' height='38.43' style='stroke-width: 0.75; stroke: #E5E5E5; fill: #E5E5E5;' />
+<rect x='329.81' y='222.90' width='38.43' height='38.43' style='stroke-width: 0.75; stroke: #E5E5E5; fill: #E5E5E5;' />
+<rect x='329.81' y='261.33' width='38.43' height='38.43' style='stroke-width: 0.75; stroke: #E5E5E5; fill: #E5E5E5;' />
+<rect x='329.81' y='299.76' width='38.43' height='38.43' style='stroke-width: 0.75; stroke: #E5E5E5; fill: #E5E5E5;' />
+<rect x='329.81' y='338.19' width='38.43' height='38.43' style='stroke-width: 0.75; stroke: #E5E5E5; fill: #E5E5E5;' />
+<rect x='99.24' y='107.62' width='38.43' height='38.43' style='stroke-width: 0.75; fill: #73A6D9;' />
+<rect x='137.66' y='107.62' width='38.43' height='38.43' style='stroke-width: 0.75; fill: #C4DAF0;' />
+<rect x='137.66' y='146.04' width='38.43' height='38.43' style='stroke-width: 0.75; fill: #A8C9E9;' />
+<rect x='176.09' y='107.62' width='38.43' height='38.43' style='stroke-width: 0.75; fill: #A8C9E9;' />
+<rect x='176.09' y='146.04' width='38.43' height='38.43' style='stroke-width: 0.75; fill: #BED6EE;' />
+<rect x='176.09' y='184.47' width='38.43' height='38.43' style='stroke-width: 0.75; fill: #B6D1EC;' />
+<rect x='214.52' y='107.62' width='38.43' height='38.43' style='stroke-width: 0.75; fill: #B1CEEB;' />
+<rect x='214.52' y='146.04' width='38.43' height='38.43' style='stroke-width: 0.75; fill: #85B2E0;' />
+<rect x='214.52' y='184.47' width='38.43' height='38.43' style='stroke-width: 0.75; fill: #A3C5E8;' />
+<rect x='214.52' y='222.90' width='38.43' height='38.43' style='stroke-width: 0.75; fill: #A6C7E8;' />
+<rect x='252.95' y='107.62' width='38.43' height='38.43' style='stroke-width: 0.75; fill: #C1D8EF;' />
+<rect x='252.95' y='146.04' width='38.43' height='38.43' style='stroke-width: 0.75; fill: #93BBE4;' />
+<rect x='252.95' y='184.47' width='38.43' height='38.43' style='stroke-width: 0.75; fill: #98BEE5;' />
+<rect x='252.95' y='222.90' width='38.43' height='38.43' style='stroke-width: 0.75; fill: #A0C4E7;' />
+<rect x='252.95' y='261.33' width='38.43' height='38.43' style='stroke-width: 0.75; fill: #4679AC;' />
+<rect x='291.38' y='107.62' width='38.43' height='38.43' style='stroke-width: 0.75; fill: #A6C7E8;' />
+<rect x='291.38' y='146.04' width='38.43' height='38.43' style='stroke-width: 0.75; fill: #73A6D9;' />
+<rect x='291.38' y='184.47' width='38.43' height='38.43' style='stroke-width: 0.75; fill: #B6D1EC;' />
+<rect x='291.38' y='222.90' width='38.43' height='38.43' style='stroke-width: 0.75; fill: #9DC2E6;' />
+<rect x='291.38' y='261.33' width='38.43' height='38.43' style='stroke-width: 0.75; fill: #4F82B5;' />
+<rect x='291.38' y='299.76' width='38.43' height='38.43' style='stroke-width: 0.75; fill: #5588BB;' />
+<rect x='329.81' y='107.62' width='38.43' height='38.43' style='stroke-width: 0.75; fill: #82B1DF;' />
+<rect x='329.81' y='146.04' width='38.43' height='38.43' style='stroke-width: 0.75; fill: #73A6D9;' />
+<rect x='329.81' y='184.47' width='38.43' height='38.43' style='stroke-width: 0.75; fill: #8AB6E1;' />
+<rect x='329.81' y='222.90' width='38.43' height='38.43' style='stroke-width: 0.75; fill: #B1CEEB;' />
+<rect x='329.81' y='261.33' width='38.43' height='38.43' style='stroke-width: 0.75; fill: #4C7FB2;' />
+<rect x='329.81' y='299.76' width='38.43' height='38.43' style='stroke-width: 0.75; fill: #5386B9;' />
+<rect x='329.81' y='338.19' width='38.43' height='38.43' style='stroke-width: 0.75; fill: #5083B6;' />
+<rect x='99.24' y='107.62' width='38.43' height='38.43' style='stroke-width: 0.75; stroke: #FFFFFF;' />
+<rect x='137.66' y='107.62' width='38.43' height='38.43' style='stroke-width: 0.75; stroke: #FFFFFF;' />
+<rect x='137.66' y='146.04' width='38.43' height='38.43' style='stroke-width: 0.75; stroke: #FFFFFF;' />
+<rect x='176.09' y='107.62' width='38.43' height='38.43' style='stroke-width: 0.75; stroke: #FFFFFF;' />
+<rect x='176.09' y='146.04' width='38.43' height='38.43' style='stroke-width: 0.75; stroke: #FFFFFF;' />
+<rect x='176.09' y='184.47' width='38.43' height='38.43' style='stroke-width: 0.75; stroke: #FFFFFF;' />
+<rect x='214.52' y='107.62' width='38.43' height='38.43' style='stroke-width: 0.75; stroke: #FFFFFF;' />
+<rect x='214.52' y='146.04' width='38.43' height='38.43' style='stroke-width: 0.75; stroke: #FFFFFF;' />
+<rect x='214.52' y='184.47' width='38.43' height='38.43' style='stroke-width: 0.75; stroke: #FFFFFF;' />
+<rect x='214.52' y='222.90' width='38.43' height='38.43' style='stroke-width: 0.75; stroke: #FFFFFF;' />
+<rect x='252.95' y='107.62' width='38.43' height='38.43' style='stroke-width: 0.75; stroke: #FFFFFF;' />
+<rect x='252.95' y='146.04' width='38.43' height='38.43' style='stroke-width: 0.75; stroke: #FFFFFF;' />
+<rect x='252.95' y='184.47' width='38.43' height='38.43' style='stroke-width: 0.75; stroke: #FFFFFF;' />
+<rect x='252.95' y='222.90' width='38.43' height='38.43' style='stroke-width: 0.75; stroke: #FFFFFF;' />
+<rect x='252.95' y='261.33' width='38.43' height='38.43' style='stroke-width: 0.75; stroke: #FFFFFF;' />
+<rect x='291.38' y='107.62' width='38.43' height='38.43' style='stroke-width: 0.75; stroke: #FFFFFF;' />
+<rect x='291.38' y='146.04' width='38.43' height='38.43' style='stroke-width: 0.75; stroke: #FFFFFF;' />
+<rect x='291.38' y='184.47' width='38.43' height='38.43' style='stroke-width: 0.75; stroke: #FFFFFF;' />
+<rect x='291.38' y='222.90' width='38.43' height='38.43' style='stroke-width: 0.75; stroke: #FFFFFF;' />
+<rect x='291.38' y='261.33' width='38.43' height='38.43' style='stroke-width: 0.75; stroke: #FFFFFF;' />
+<rect x='291.38' y='299.76' width='38.43' height='38.43' style='stroke-width: 0.75; stroke: #FFFFFF;' />
+<rect x='329.81' y='107.62' width='38.43' height='38.43' style='stroke-width: 0.75; stroke: #FFFFFF;' />
+<rect x='329.81' y='146.04' width='38.43' height='38.43' style='stroke-width: 0.75; stroke: #FFFFFF;' />
+<rect x='329.81' y='184.47' width='38.43' height='38.43' style='stroke-width: 0.75; stroke: #FFFFFF;' />
+<rect x='329.81' y='222.90' width='38.43' height='38.43' style='stroke-width: 0.75; stroke: #FFFFFF;' />
+<rect x='329.81' y='261.33' width='38.43' height='38.43' style='stroke-width: 0.75; stroke: #FFFFFF;' />
+<rect x='329.81' y='299.76' width='38.43' height='38.43' style='stroke-width: 0.75; stroke: #FFFFFF;' />
+<rect x='329.81' y='338.19' width='38.43' height='38.43' style='stroke-width: 0.75; stroke: #FFFFFF;' />
+<rect x='99.24' y='107.62' width='38.43' height='38.43' style='stroke-width: 0.75; stroke: #FFFFFF; fill: #E5E5E5;' />
+<rect x='137.66' y='107.62' width='38.43' height='38.43' style='stroke-width: 0.75; stroke: #FFFFFF; fill: #E5E5E5;' />
+<rect x='137.66' y='146.04' width='38.43' height='38.43' style='stroke-width: 0.75; stroke: #FFFFFF; fill: #E5E5E5;' />
+<rect x='176.09' y='107.62' width='38.43' height='38.43' style='stroke-width: 0.75; stroke: #FFFFFF; fill: #E5E5E5;' />
+<rect x='176.09' y='146.04' width='38.43' height='38.43' style='stroke-width: 0.75; stroke: #FFFFFF; fill: #E5E5E5;' />
+<rect x='176.09' y='184.47' width='38.43' height='38.43' style='stroke-width: 0.75; stroke: #FFFFFF; fill: #E5E5E5;' />
+<rect x='214.52' y='107.62' width='38.43' height='38.43' style='stroke-width: 0.75; stroke: #FFFFFF; fill: #E5E5E5;' />
+<rect x='214.52' y='146.04' width='38.43' height='38.43' style='stroke-width: 0.75; stroke: #FFFFFF; fill: #E5E5E5;' />
+<rect x='214.52' y='184.47' width='38.43' height='38.43' style='stroke-width: 0.75; stroke: #FFFFFF; fill: #E5E5E5;' />
+<rect x='214.52' y='222.90' width='38.43' height='38.43' style='stroke-width: 0.75; stroke: #FFFFFF; fill: #E5E5E5;' />
+<rect x='252.95' y='107.62' width='38.43' height='38.43' style='stroke-width: 0.75; stroke: #FFFFFF; fill: #E5E5E5;' />
+<rect x='252.95' y='146.04' width='38.43' height='38.43' style='stroke-width: 0.75; stroke: #FFFFFF; fill: #E5E5E5;' />
+<rect x='252.95' y='184.47' width='38.43' height='38.43' style='stroke-width: 0.75; stroke: #FFFFFF; fill: #E5E5E5;' />
+<rect x='252.95' y='222.90' width='38.43' height='38.43' style='stroke-width: 0.75; stroke: #FFFFFF; fill: #E5E5E5;' />
+<rect x='291.38' y='107.62' width='38.43' height='38.43' style='stroke-width: 0.75; stroke: #FFFFFF; fill: #E5E5E5;' />
+<rect x='291.38' y='146.04' width='38.43' height='38.43' style='stroke-width: 0.75; stroke: #FFFFFF; fill: #E5E5E5;' />
+<rect x='291.38' y='184.47' width='38.43' height='38.43' style='stroke-width: 0.75; stroke: #FFFFFF; fill: #E5E5E5;' />
+<rect x='291.38' y='222.90' width='38.43' height='38.43' style='stroke-width: 0.75; stroke: #FFFFFF; fill: #E5E5E5;' />
+<rect x='329.81' y='107.62' width='38.43' height='38.43' style='stroke-width: 0.75; stroke: #FFFFFF; fill: #E5E5E5;' />
+<rect x='329.81' y='146.04' width='38.43' height='38.43' style='stroke-width: 0.75; stroke: #FFFFFF; fill: #E5E5E5;' />
+<rect x='329.81' y='184.47' width='38.43' height='38.43' style='stroke-width: 0.75; stroke: #FFFFFF; fill: #E5E5E5;' />
+<text transform='translate(120.74,106.14) rotate(-45)' style='font-size: 9.00px; font-family: Raleway;' textLength='39.56px' lengthAdjust='spacingAndGlyphs'>random.2</text>
+<text transform='translate(157.89,104.86) rotate(-45)' style='font-size: 9.00px; font-family: Raleway;' textLength='37.08px' lengthAdjust='spacingAndGlyphs'>pressure</text>
+<text transform='translate(197.60,106.14) rotate(-45)' style='font-size: 9.00px; font-family: Raleway;' textLength='38.80px' lengthAdjust='spacingAndGlyphs'>random.1</text>
+<text transform='translate(234.71,104.82) rotate(-45)' style='font-size: 9.00px; font-family: Raleway;' textLength='40.48px' lengthAdjust='spacingAndGlyphs'>gross.pay</text>
+<text transform='translate(273.80,105.49) rotate(-45)' style='font-size: 9.00px; font-family: Raleway;' textLength='83.54px' lengthAdjust='spacingAndGlyphs'>gross.pay.transform</text>
+<text transform='translate(312.24,105.50) rotate(-45)' style='font-size: 9.00px; font-family: Raleway;' textLength='20.11px' lengthAdjust='spacingAndGlyphs'>phi.h</text>
+<text transform='translate(350.67,105.50) rotate(-45)' style='font-size: 9.00px; font-family: Raleway;' textLength='46.26px' lengthAdjust='spacingAndGlyphs'>production</text>
+<text x='60.02' y='128.96' style='font-size: 9.00px; font-family: Raleway;' textLength='33.45px' lengthAdjust='spacingAndGlyphs'>position</text>
+<text x='92.34' y='167.39' style='font-size: 9.00px; font-family: Raleway;' textLength='39.56px' lengthAdjust='spacingAndGlyphs'>random.2</text>
+<text x='133.25' y='205.82' style='font-size: 9.00px; font-family: Raleway;' textLength='37.08px' lengthAdjust='spacingAndGlyphs'>pressure</text>
+<text x='169.96' y='244.25' style='font-size: 9.00px; font-family: Raleway;' textLength='38.80px' lengthAdjust='spacingAndGlyphs'>random.1</text>
+<text x='206.71' y='282.68' style='font-size: 9.00px; font-family: Raleway;' textLength='40.48px' lengthAdjust='spacingAndGlyphs'>gross.pay</text>
+<text x='202.08' y='321.10' style='font-size: 9.00px; font-family: Raleway;' textLength='83.54px' lengthAdjust='spacingAndGlyphs'>gross.pay.transform</text>
+<text x='303.93' y='359.53' style='font-size: 9.00px; font-family: Raleway;' textLength='20.11px' lengthAdjust='spacingAndGlyphs'>phi.h</text>
+<text x='109.61' y='128.85' style='font-size: 9.00px; font-weight: bold; font-family: Raleway;' textLength='17.68px' lengthAdjust='spacingAndGlyphs'>0.54</text>
+<text x='148.03' y='129.47' style='font-size: 9.00px; font-weight: bold; font-family: Raleway;' textLength='17.70px' lengthAdjust='spacingAndGlyphs'>0.22</text>
+<text x='148.37' y='167.28' style='font-size: 9.00px; font-weight: bold; font-family: Raleway;' textLength='17.02px' lengthAdjust='spacingAndGlyphs'>0.31</text>
+<text x='186.48' y='128.86' style='font-size: 9.00px; font-weight: bold; font-family: Raleway;' textLength='17.65px' lengthAdjust='spacingAndGlyphs'>0.32</text>
+<text x='186.48' y='167.28' style='font-size: 9.00px; font-weight: bold; font-family: Raleway;' textLength='17.65px' lengthAdjust='spacingAndGlyphs'>0.23</text>
+<text x='186.47' y='205.80' style='font-size: 9.00px; font-weight: bold; font-family: Raleway;' textLength='17.68px' lengthAdjust='spacingAndGlyphs'>0.27</text>
+<text x='224.71' y='129.98' style='font-size: 9.00px; font-weight: bold; font-family: Raleway;' textLength='18.06px' lengthAdjust='spacingAndGlyphs'>0.28</text>
+<text x='224.90' y='167.28' style='font-size: 9.00px; font-weight: bold; font-family: Raleway;' textLength='17.68px' lengthAdjust='spacingAndGlyphs'>0.45</text>
+<text x='224.88' y='205.71' style='font-size: 9.00px; font-weight: bold; font-family: Raleway;' textLength='17.71px' lengthAdjust='spacingAndGlyphs'>0.34</text>
+<text x='224.91' y='244.14' style='font-size: 9.00px; font-weight: bold; font-family: Raleway;' textLength='17.65px' lengthAdjust='spacingAndGlyphs'>0.32</text>
+<text x='263.34' y='128.86' style='font-size: 9.00px; font-weight: bold; font-family: Raleway;' textLength='17.65px' lengthAdjust='spacingAndGlyphs'>0.23</text>
+<text x='263.23' y='167.25' style='font-size: 9.00px; font-weight: bold; font-family: Raleway;' textLength='17.87px' lengthAdjust='spacingAndGlyphs'>0.39</text>
+<text x='263.16' y='206.22' style='font-size: 9.00px; font-weight: bold; font-family: Raleway;' textLength='18.01px' lengthAdjust='spacingAndGlyphs'>0.38</text>
+<text x='263.39' y='244.13' style='font-size: 9.00px; font-weight: bold; font-family: Raleway;' textLength='17.56px' lengthAdjust='spacingAndGlyphs'>0.35</text>
+<text x='263.22' y='282.54' style='font-size: 9.00px; font-weight: bold; font-family: Raleway;' textLength='17.90px' lengthAdjust='spacingAndGlyphs'>0.97</text>
+<text x='301.77' y='128.86' style='font-size: 9.00px; font-weight: bold; font-family: Raleway;' textLength='17.65px' lengthAdjust='spacingAndGlyphs'>0.32</text>
+<text x='301.76' y='167.28' style='font-size: 9.00px; font-weight: bold; font-family: Raleway;' textLength='17.68px' lengthAdjust='spacingAndGlyphs'>0.54</text>
+<text x='301.76' y='205.80' style='font-size: 9.00px; font-weight: bold; font-family: Raleway;' textLength='17.68px' lengthAdjust='spacingAndGlyphs'>0.27</text>
+<text x='301.82' y='244.13' style='font-size: 9.00px; font-weight: bold; font-family: Raleway;' textLength='17.56px' lengthAdjust='spacingAndGlyphs'>0.35</text>
+<text x='301.45' y='283.05' style='font-size: 9.00px; font-weight: bold; font-family: Raleway;' textLength='18.29px' lengthAdjust='spacingAndGlyphs'>0.89</text>
+<text x='301.59' y='321.51' style='font-size: 9.00px; font-weight: bold; font-family: Raleway;' textLength='18.01px' lengthAdjust='spacingAndGlyphs'>0.83</text>
+<text x='340.19' y='128.85' style='font-size: 9.00px; font-weight: bold; font-family: Raleway;' textLength='17.68px' lengthAdjust='spacingAndGlyphs'>0.45</text>
+<text x='340.19' y='167.28' style='font-size: 9.00px; font-weight: bold; font-family: Raleway;' textLength='17.68px' lengthAdjust='spacingAndGlyphs'>0.54</text>
+<text x='340.17' y='205.71' style='font-size: 9.00px; font-weight: bold; font-family: Raleway;' textLength='17.71px' lengthAdjust='spacingAndGlyphs'>0.43</text>
+<text x='340.06' y='244.11' style='font-size: 9.00px; font-weight: bold; font-family: Raleway;' textLength='17.93px' lengthAdjust='spacingAndGlyphs'>0.29</text>
+<text x='340.37' y='282.54' style='font-size: 9.00px; font-weight: bold; font-family: Raleway;' textLength='17.30px' lengthAdjust='spacingAndGlyphs'>0.91</text>
+<text x='339.96' y='321.60' style='font-size: 9.00px; font-weight: bold; font-family: Raleway;' textLength='18.13px' lengthAdjust='spacingAndGlyphs'>0.84</text>
+<text x='339.81' y='360.55' style='font-size: 9.00px; font-weight: bold; font-family: Raleway;' textLength='18.42px' lengthAdjust='spacingAndGlyphs'>0.88</text>
+</svg>
