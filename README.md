@@ -9,7 +9,7 @@ This repo is an extension of the [Predict repository](https://github.com/mycarta
 * This is an expansion and amelioration of the Python significance tests showcased in [Geoscience ML notebook 2](https://github.com/mycarta/predict/blob/master/Geoscience_ML_notebook_2.ipynb) and [Geoscience_ML_notebook 3](https://github.com/mycarta/predict/blob/master/Geoscience_ML_notebook_3.ipynb)
 * For a static notebook, see [here](https://github.com/mycarta/Niccoli_Speidel_2018_Geoconvention/blob/master/Python/Python_data_science_tools%20_petroleum_exploration_production.ipynb)
 * For an interactive notebook, click on the `Binder button` below
-https://mybinder.org/v2/gh/mycarta/Niccoli_Speidel_2018_Geoconvention/master
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/mycarta/Niccoli_Speidel_2018_Geoconvention/master)
 
 
 
