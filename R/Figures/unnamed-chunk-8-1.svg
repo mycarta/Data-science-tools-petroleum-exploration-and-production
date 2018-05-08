@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<svg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' viewBox='0 0 360.00 468.00'>
+<defs>
+  <style type='text/css'><![CDATA[
+    line, polyline, path, rect, circle {
+      fill: none;
+      stroke: #000000;
+      stroke-linecap: round;
+      stroke-linejoin: round;
+      stroke-miterlimit: 10.00;
+    }
+  ]]></style>
+</defs>
+<rect width='100%' height='100%' style='stroke: none; fill: #FFFFFF;'/>
+<text transform='translate(70.98,165.14) rotate(-90)' style='font-size: 9.00px; font-family: Raleway;' textLength='64.85px' lengthAdjust='spacingAndGlyphs'>position.cat[2,3]</text>
+<text transform='translate(112.76,158.54) rotate(-90)' style='font-size: 9.00px; font-family: Raleway;' textLength='39.56px' lengthAdjust='spacingAndGlyphs'>random.2</text>
+<text transform='translate(154.54,219.30) rotate(-90)' style='font-size: 9.00px; font-family: Raleway;' textLength='20.11px' lengthAdjust='spacingAndGlyphs'>phi.h</text>
+<text transform='translate(196.32,345.88) rotate(-90)' style='font-size: 9.00px; font-family: Raleway;' textLength='40.48px' lengthAdjust='spacingAndGlyphs'>gross.pay</text>
+<text transform='translate(238.09,388.94) rotate(-90)' style='font-size: 9.00px; font-family: Raleway;' textLength='83.54px' lengthAdjust='spacingAndGlyphs'>gross.pay.transform</text>
+<polyline points='194.40,297.08 194.40,276.57 236.18,276.57 236.18,297.08 ' style='stroke-width: 0.75;' />
+<polyline points='152.62,190.87 152.62,170.36 215.29,170.36 215.29,276.57 ' style='stroke-width: 0.75;' />
+<polyline points='110.84,110.66 110.84,90.15 183.96,90.15 183.96,170.36 ' style='stroke-width: 0.75;' />
+<text transform='translate(279.87,143.18) rotate(-90)' style='font-size: 9.00px; font-family: Raleway;' textLength='37.08px' lengthAdjust='spacingAndGlyphs'>pressure</text>
+<text transform='translate(321.65,144.90) rotate(-90)' style='font-size: 9.00px; font-family: Raleway;' textLength='38.80px' lengthAdjust='spacingAndGlyphs'>random.1</text>
+<polyline points='277.96,97.79 277.96,77.27 319.73,77.27 319.73,97.79 ' style='stroke-width: 0.75;' />
+<polyline points='147.40,90.15 147.40,74.66 298.84,74.66 298.84,77.27 ' style='stroke-width: 0.75;' />
+<polyline points='69.07,91.98 69.07,71.47 223.12,71.47 223.12,74.66 ' style='stroke-width: 0.75;' />
+<line x1='59.04' y1='292.95' x2='59.04' y2='59.04' style='stroke-width: 0.75;' />
+<line x1='59.04' y1='292.95' x2='51.84' y2='292.95' style='stroke-width: 0.75;' />
+<line x1='59.04' y1='240.65' x2='51.84' y2='240.65' style='stroke-width: 0.75;' />
+<line x1='59.04' y1='188.35' x2='51.84' y2='188.35' style='stroke-width: 0.75;' />
+<line x1='59.04' y1='136.05' x2='51.84' y2='136.05' style='stroke-width: 0.75;' />
+<line x1='59.04' y1='83.76' x2='51.84' y2='83.76' style='stroke-width: 0.75;' />
+<text transform='translate(41.76,300.45) rotate(-90)' style='font-size: 9.00px; font-family: Raleway;' textLength='15.00px' lengthAdjust='spacingAndGlyphs'> 0.8</text>
+<text transform='translate(41.76,248.19) rotate(-90)' style='font-size: 9.00px; font-family: Raleway;' textLength='15.07px' lengthAdjust='spacingAndGlyphs'> 0.6</text>
+<text transform='translate(41.76,195.67) rotate(-90)' style='font-size: 9.00px; font-family: Raleway;' textLength='14.64px' lengthAdjust='spacingAndGlyphs'> 0.4</text>
+<text transform='translate(41.76,143.27) rotate(-90)' style='font-size: 9.00px; font-family: Raleway;' textLength='14.44px' lengthAdjust='spacingAndGlyphs'> 0.2</text>
+<text transform='translate(41.76,91.33) rotate(-90)' style='font-size: 9.00px; font-family: Raleway;' textLength='15.15px' lengthAdjust='spacingAndGlyphs'> 0.0</text>
+<text transform='translate(10.95,261.22) rotate(-90)' style='font-size: 9.00px; font-family: Raleway;' textLength='68.83px' lengthAdjust='spacingAndGlyphs'>30 * Hoeffding D</text>
+</svg>
