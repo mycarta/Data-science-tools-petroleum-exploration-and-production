@@ -6,6 +6,7 @@ This repo is a Python and R extention of the work from two Python notebooks in t
 
 - [Geoscience_ML_notebook 3](https://github.com/mycarta/predict/blob/master/Geoscience_ML_notebook_3.ipynb)
 
+
 ## Contributors
 
 ### For Python
@@ -21,3 +22,9 @@ This repo is a Python and R extention of the work from two Python notebooks in t
 [Thomas Speidel](https:/github.com/tspeidel/), see `/R/` above.
 * For an interactive notebook, see [here](https://geoconvention2018.updog.co/index.html)
 * For the Rmarkdown see [here](https://github.com/mycarta/Niccoli_Speidel_2018_Geoconvention/blob/master/R/geoconference_2018.Rmd)
+
+
+## Geoconvention talk
+** Data science tools for petroleum exploration and production **
+* For pre-talk abstract see [here](https://www.geoconvention.com/uploads/2018abstracts/290_GC2018_Data_science_tools_for_petroleum_e_and_p.pdf)
+* For slides see `/Talk slides/` above
