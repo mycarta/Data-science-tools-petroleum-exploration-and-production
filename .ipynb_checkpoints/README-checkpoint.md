@@ -12,7 +12,7 @@ This repo is a Python and R extention of the work from two Python notebooks in t
 ### For Python
 [Matteo Niccoli](https://github.com/mycarta),  see `/Python/` above.
 * For static notebooks, see [here](https://github.com/mycarta/Niccoli_Speidel_2018_Geoconvention/tree/master/Python/notebooks)
-* For interactive notebooks, click on the `Binder button` below, open the `/Python/` directory, and open one of the notebooks
+* For interactive notebooks, click on the `Binder button` below, browse to the `/Python/notebooks` directory, and open one of the notebooks
 
 [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/mycarta/Niccoli_Speidel_2018_Geoconvention/master)
 
