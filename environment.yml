@@ -1,3 +1,4 @@
+name: ns-2018
 channels:
   - conda-forge
   - defaults
@@ -7,3 +8,10 @@ dependencies:
   - numpy
   - pandas
   - seaborn
+  - dcor
+  - biokit
+  - patsy
+  - statsmodels
+  - scikit-learn
+  - mlxtend
+  - rfpimp
