@@ -11,8 +11,20 @@ This repo is a Python and R extention of the work from two Python notebooks in t
 
 ### For Python
 [Matteo Niccoli](https://github.com/mycarta),  see `/Python/` above.
+
+Blog posts:
+* [Visual data exploration in Python – correlation, confidence, spuriousness](https://mycarta.wordpress.com/2019/03/17/visual-data-exploration-in-python-correlation-confidence-spuriousness/)
+* [Data exploration in Python: distance correlation and variable clustering](https://mycarta.wordpress.com/2019/03/17/visual-data-exploration-in-python-correlation-confidence-spuriousness/)
+* [Variable selection in Python, Part I](https://mycarta.wordpress.com/2019/04/30/variable-selection-in-python-part-i/)
+
+
 Static notebooks:
-* [here](https://github.com/mycarta/Niccoli_Speidel_2018_Geoconvention/tree/master/Python/notebooks)
+* [Data loading, visualization, significance testing](https://github.com/mycarta/Niccoli_Speidel_2018_Geoconvention/blob/master/Python/notebooks/Python_data_science_tools%20_petroleum_exploration_production.ipynb)
+* [Distance correlation and clustering](https://github.com/mycarta/Niccoli_Speidel_2018_Geoconvention/blob/master/Python/notebooks/Python_data_science_tools%20_petroleum_exploration_production_distance_correlation_and_clustering.ipynb)
+* [Variable selection with distance correlation]()
+* [Variable selection with Variance Inflation Factor](https://github.com/mycarta/Niccoli_Speidel_2018_Geoconvention/blob/master/Python/notebooks/variable_selection_02_VIF.ipynb)
+* [Variable selection with Sequential Feature Selection](https://github.com/mycarta/Niccoli_Speidel_2018_Geoconvention/blob/master/Python/notebooks/variable_selection_03_SFS.ipynb)
+* [Variable selection with Random Forest drop-column variable importance AND variable dependance](https://github.com/mycarta/Niccoli_Speidel_2018_Geoconvention/blob/master/Python/notebooks/variable_selection_04_RF_drop-column_importances_and_dependence.ipynb)
 
 For interactive notebooks:
 * click on the `Binder button` below, browse to the `/Python/notebooks` directory, and open one of the notebooks
