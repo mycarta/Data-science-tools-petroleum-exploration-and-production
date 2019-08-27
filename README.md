@@ -6,6 +6,9 @@ This repo is a Python and R extention of the work from two Python notebooks in t
 
 - [Geoscience_ML_notebook 3](https://github.com/mycarta/predict/blob/master/Geoscience_ML_notebook_3.ipynb)
 
+**We illustrate the use of Data Science tools, specifically focusing on exploratory data analysis
+and predictive modeling, using a small toy data set with oil production data.**
+
 ## Talk at the 2018 Calgary CSEG / CSPG Geoconvention
 **Data science tools for petroleum exploration and production**
 * For pre-talk abstract see [here](https://www.geoconvention.com/uploads/2018abstracts/290_GC2018_Data_science_tools_for_petroleum_e_and_p.pdf)
