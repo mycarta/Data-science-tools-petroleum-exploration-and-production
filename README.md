@@ -19,7 +19,7 @@ This repo is a Python and R extention of the work from two Python notebooks in t
 
 Blog posts:
 * [Visual data exploration in Python: correlation, confidence, spuriousness](https://mycarta.wordpress.com/2019/03/17/visual-data-exploration-in-python-correlation-confidence-spuriousness/)
-* [Data exploration in Python: distance correlation and variable clustering](https://mycarta.wordpress.com/2019/03/17/visual-data-exploration-in-python-correlation-confidence-spuriousness/)
+* [Data exploration in Python: distance correlation and variable clustering](https://mycarta.wordpress.com/2019/04/10/data-exploration-in-python-distance-correlation-and-variable-clustering/)
 * [Variable selection in Python, Part I](https://mycarta.wordpress.com/2019/04/30/variable-selection-in-python-part-i/)
 * Variable selection in Python, Part II
 * Regression model in Python
