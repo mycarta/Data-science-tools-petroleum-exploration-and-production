@@ -1,6 +1,6 @@
 ## Data science tools for petroleum exploration and production
 
-This repo is a Python and R extention of the work from two Python notebooks in the [Predict repository](https://github.com/mycarta/predict) (_some of the code may be obsolete_): 
+This repo is a Python and R extention of the work from two Python notebooks in the [Predict repository](https://github.com/mycarta/predict) (_some of the code in those notebooks may be obsolete, but they are still a good read_): 
 
 - [Geoscience ML notebook 2](https://github.com/mycarta/predict/blob/master/Geoscience_ML_notebook_2.ipynb) 
 
