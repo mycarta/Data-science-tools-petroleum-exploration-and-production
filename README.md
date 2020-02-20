@@ -28,12 +28,12 @@ Blog posts:
 * Regression model in Python
 
 
-Interactive notebooks:
+#### Interactive notebooks:
 * click on the `Binder button` below, browse to the `/Python/notebooks` directory, and open one of the notebooks
 
 [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/mycarta/Niccoli_Speidel_2018_Geoconvention/master)
 
-Static notebooks:
+#### Static notebooks:
 * [Data loading, visualization, significance testing](https://github.com/mycarta/Niccoli_Speidel_2018_Geoconvention/blob/master/Python/notebooks/Python_data_science_tools%20_petroleum_exploration_production.ipynb)
 * [Distance correlation and clustering](https://github.com/mycarta/Niccoli_Speidel_2018_Geoconvention/blob/master/Python/notebooks/Python_data_science_tools%20_petroleum_exploration_production_distance_correlation_and_clustering.ipynb)
 * [Variable selection with distance correlation]()
