@@ -34,12 +34,17 @@ Blog posts:
 [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/mycarta/Niccoli_Speidel_2018_Geoconvention/master)
 
 #### Static notebooks:
-* [Data loading, visualization, significance testing](https://github.com/mycarta/Niccoli_Speidel_2018_Geoconvention/blob/master/Python/notebooks/Python_data_science_tools%20_petroleum_exploration_production.ipynb)
-* [Distance correlation and clustering](https://github.com/mycarta/Niccoli_Speidel_2018_Geoconvention/blob/master/Python/notebooks/Python_data_science_tools%20_petroleum_exploration_production_distance_correlation_and_clustering.ipynb)
-* [Variable selection with distance correlation]()
-* [Variable selection with Variance Inflation Factor](https://github.com/mycarta/Niccoli_Speidel_2018_Geoconvention/blob/master/Python/notebooks/variable_selection_02_VIF.ipynb)
-* [Variable selection with Sequential Feature Selection](https://github.com/mycarta/Niccoli_Speidel_2018_Geoconvention/blob/master/Python/notebooks/variable_selection_03_SFS.ipynb)
-* [Variable selection with Random Forest drop-column variable importance AND variable dependance](https://github.com/mycarta/Niccoli_Speidel_2018_Geoconvention/blob/master/Python/notebooks/variable_selection_04_RF_drop-column_importances_and_dependence.ipynb)
+* [Data loading, visualization, significance testing](https://github.com/mycarta/Data-science-tools-petroleum-exploration-and-production/blob/master/Python/notebooks/Python_data_science_tools%20_petroleum_exploration_production.ipynb)
+* [Confidence interval for the correlation coefficient - interactive)](https://github.com/mycarta/Data-science-tools-petroleum-exploration-and-production/blob/master/Python/notebooks/Python_confidence_interval_interact_matplotlib.ipynb)
+* [Distance correlation and clustering](https://github.com/mycarta/Data-science-tools-petroleum-exploration-and-production/blob/master/Python/notebooks/Python_data_science_tools%20_petroleum_exploration_production_distance_correlation_and_clustering.ipynb)
+* [Variable selection with distance correlation](https://github.com/mycarta/Data-science-tools-petroleum-exploration-and-production/blob/master/Python/notebooks/variable_selection_01_DCOR.ipynb)
+* [Variable selection with Variance Inflation Factor](https://github.com/mycarta/Data-science-tools-petroleum-exploration-and-production/blob/master/Python/notebooks/variable_selection_02_VIF.ipynb)
+* [Variable selection with Sequential Feature Selection](https://github.com/mycarta/Data-science-tools-petroleum-exploration-and-production/blob/master/Python/notebooks/variable_selection_03a_Exhaustive_Feature_Selector.ipynb)
+* [Variable selection with Sequential Feature Selection](https://github.com/mycarta/Data-science-tools-petroleum-exploration-and-production/blob/master/Python/notebooks/variable_selection_03b_Sequential_Feature_Selector.ipynb)
+* [Variable selection with Random Forest drop-column variable importance AND variable dependance](https://github.com/mycarta/Data-science-tools-petroleum-exploration-and-production/blob/master/Python/notebooks/variable_selection_04_RF_drop-column_importances_and_dependence.ipynb)
+* [Variable selection with Linear regression and permutation importance](https://github.com/mycarta/Data-science-tools-petroleum-exploration-and-production/blob/master/Python/notebooks/variable_selection_05_LR_permutation_importance.ipynb)
+* [Variable selectrions with SHAP values and linear regression](https://github.com/mycarta/Data-science-tools-petroleum-exploration-and-production/blob/master/Python/notebooks/variable_selection_07_LR_SHAP_values.ipynb)
+* [Variable selection with conditional statistics](https://github.com/mycarta/Data-science-tools-petroleum-exploration-and-production/blob/master/Python/notebooks/variable_selection_08_conditional_statistics.ipynb)
 
 
 
