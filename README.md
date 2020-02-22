@@ -32,7 +32,7 @@ Blog posts:
 #### Interactive notebooks:
 * click on the `Binder button` below, browse to the `/Python/notebooks` directory, and open one of the notebooks
 
-[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/mycarta/Niccoli_Speidel_2018_Geoconvention/master)
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/mycarta/Data-science-tools-petroleum-exploration-and-production/master)
 
 #### Static notebooks:
 * [Data loading, visualization, significance testing](https://github.com/mycarta/Data-science-tools-petroleum-exploration-and-production/blob/master/Python/notebooks/Python_data_science_tools%20_petroleum_exploration_production.ipynb)
