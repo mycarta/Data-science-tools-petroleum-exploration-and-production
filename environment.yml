@@ -16,4 +16,4 @@ dependencies:
   - pip
   - pip:
     - dcor
-    -biokit
+    - biokit
