@@ -8,10 +8,12 @@ dependencies:
   - numpy
   - pandas
   - seaborn
-  - dcor
-  - biokit
   - patsy
   - statsmodels
   - scikit-learn
   - mlxtend
   - rfpimp
+  - pip
+  - pip:
+    - dcor
+    -biokit
