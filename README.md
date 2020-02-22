@@ -36,7 +36,7 @@ Blog posts:
 
 #### Static notebooks:
 * [Data loading, visualization, significance testing](https://github.com/mycarta/Data-science-tools-petroleum-exploration-and-production/blob/master/Python/notebooks/Python_data_science_tools%20_petroleum_exploration_production.ipynb)
-* [Confidence interval for the correlation coefficient - interactive)](https://github.com/mycarta/Data-science-tools-petroleum-exploration-and-production/blob/master/Python/notebooks/Python_confidence_interval_interact_matplotlib.ipynb)
+* __NEW__ [Confidence interval for the correlation coefficient - (interactive)](https://github.com/mycarta/Data-science-tools-petroleum-exploration-and-production/blob/master/Python/notebooks/Python_confidence_interval_interact_matplotlib.ipynb)
 * [Distance correlation and clustering](https://github.com/mycarta/Data-science-tools-petroleum-exploration-and-production/blob/master/Python/notebooks/Python_data_science_tools%20_petroleum_exploration_production_distance_correlation_and_clustering.ipynb)
 * [Variable selection with distance correlation](https://github.com/mycarta/Data-science-tools-petroleum-exploration-and-production/blob/master/Python/notebooks/variable_selection_01_DCOR.ipynb)
 * [Variable selection with Variance Inflation Factor](https://github.com/mycarta/Data-science-tools-petroleum-exploration-and-production/blob/master/Python/notebooks/variable_selection_02_VIF.ipynb)
