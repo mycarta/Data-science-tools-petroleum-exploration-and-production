@@ -53,7 +53,7 @@ Blog posts:
 
 ### For R
 [Thomas Speidel](https:/github.com/tspeidel/), see `/R/` above.
-* For an interactive notebook, see [here](https://geoconvention2018.updog.co/index.html)
+* For an interactive notebook, see [here](http://speidel.duet.to/Pages/geoconvention-2018/geoconvention-2018.html)
 * For the Rmarkdown see [here](https://github.com/mycarta/Niccoli_Speidel_2018_Geoconvention/blob/master/R/geoconference_2018.Rmd)
 
 
